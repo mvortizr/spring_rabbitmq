@@ -1,0 +1,8 @@
+POST http://localhost:9292/order/mcdonals
+Content-Type: application/json
+
+{
+"name":"nombre",
+"qty":1,
+"price":349
+}
